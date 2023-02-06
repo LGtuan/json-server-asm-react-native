@@ -1,0 +1,17 @@
+{
+  "name": "json-server-asm-react-native",
+  "version": "1.0.0",
+  "description": "This is my server vippro",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Lê Gia Tuấn",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
